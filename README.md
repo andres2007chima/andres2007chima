@@ -1,8 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/ee/4b/e6/ee4be6dedc82f7b0254c196b9aaac5ca.gif)](https://arjuncvinod.github.io)
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm andres chima</h1>
+[![MasterHead](https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif)](https://arjuncvinod.github.io)
+<h1 align="center">Hello <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNvaXZyNWU1bmVoYXM2cWVtN2xiYTBvYWkzMGxidTQ0N2p2aWl4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KqmkSnPjM2dYU7LYpb/giphy.gif" width="50"> I'm andres chima</h1>
  
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B30000&width=435&lines=programmer+in+progress;Computer+Science+Student;Open+Source+Enthusiast;Freelancer" alt="Typing SVG" />
     </div>  
 <p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
